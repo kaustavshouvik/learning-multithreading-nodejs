@@ -2,7 +2,7 @@ Creating threads.
 
 Threads in node:
 
-1. A thread will have it's own event loop.
+1. A thread will have its own event loop.
 
 Running the code examples:
 
